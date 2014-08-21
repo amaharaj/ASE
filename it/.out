@@ -1,0 +1,22 @@
+================================================================================
+==
+==   Density Functional based Tight Binding with a lot of extensions (DFTB+)    
+==
+==                              Release: 1.2 (p2)
+==
+==                            (ParserVersion = 4)
+==
+================================================================================
+
+
+********************************************************************************
+** Parsing and initializing
+********************************************************************************
+
+Interpreting input file 'dftb_in.hsd'
+--------------------------------------------------------------------------------
+ERROR!
+-> SK file with generated name '/home/amber/mio-1-1/C-Zn.skf' does not exist.
+Path: dftb_in/Hamiltonian/DFTB/SlaterKosterFiles/Type2FileNames
+Line: 17-21 (File: dftb_in.hsd)
+

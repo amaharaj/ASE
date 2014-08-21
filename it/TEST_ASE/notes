@@ -1,0 +1,12 @@
+01 = default from the web
+02 = read in a file I made
+03 = isolated particle dynamics (from the web)
+04 = applying 03 to mine
+05 = applying constraint to 04
+06 = test for using znorg files
+07 = test for using mio and znorg files
+08 = importing the porphyrin nanoring
+09 = constraining a molecule for x lower than some chosen x value
+10 = constrain as in 09, include a spring constraint for distance R - Ro
+11 = constrain including a rotation of second molecule in theta
+12 = (should be 11) test rotation using atoms.rotate()
