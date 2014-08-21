@@ -10,3 +10,4 @@
 10 = constrain as in 09, include a spring constraint for distance R - Ro
 11 = constrain including a rotation of second molecule in theta
 12 = (should be 11) test rotation using atoms.rotate()
+13 = copied 02, adding in constraints
